@@ -1,0 +1,15 @@
+Lung Cancer Detection Using Machine Learning Algorithm  :
+
+Project Done By:
+
+Fuad Uddin
+
+Sumaiya Jahan Mim
+
+Sazzad Hossain Rony
+
+Super Vised By:
+
+DR.MD.GOLAM RABIUL
+
+Adjunt Faculty of Department of computer science and engineering 
